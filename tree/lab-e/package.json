@@ -1,0 +1,24 @@
+{
+  "name": "labe",
+  "version": "1.0.0",
+  "description": "plik",
+  "main": "script.js",
+  "scripts": {
+    "test": "command",
+    "mix": "mix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "wow"
+  ],
+  "author": "rojczyk",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3"
+  }
+}
